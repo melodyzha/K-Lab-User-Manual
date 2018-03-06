@@ -1,7 +1,7 @@
 * [什么是K-Lab](README.md)
 * [Notebook\(编程环境\)](chapter1.md)
-    * Code Cell
-    * Markdown Cell
+    * [Code Cell](chapter1.md/#Code-Cell)
+    * [Markdown Cell](chapter1.md#Markdown-Cell)
     * 代码收藏区
 * [Kernel\(计算环境\)](chapter2.md)
     * Kernel类型
