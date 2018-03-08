@@ -43,4 +43,3 @@ K-Lab内支持原生Jupyter Notebook的快捷键。
 
 * `Ctrl`+`S`: 保存文件
 * `Ctrl`+`Enter`: 运行
-* `Alt`+`Enter`: 运行并在下方插入cell
