@@ -1,5 +1,5 @@
 # 快捷键
-
+K-Lab内支持原生Jupyter Notebook的快捷键。
 ## 编辑模式 Edit mode
 当前cell显示为绿色边框，可以输入代码或是文本。
 * `Ctrl`+`/`：注释代码
