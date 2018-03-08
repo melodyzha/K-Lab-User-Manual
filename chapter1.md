@@ -38,9 +38,7 @@ K-Lab支持标准Markdown语法，常用Markdown语法示例展示如下：
     2. Case2
 2. 有序列表
 
-![图片名称`(文件路径)
-[超链接的文字`(超链接网页)
-`
+![name](url)
 
 渲染后的Markdown文本展示如下：     
 add pics here    
