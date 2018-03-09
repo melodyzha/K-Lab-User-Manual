@@ -16,3 +16,5 @@ Enter command mode by pressing `Esc` or using the mouse to click *outside* a cel
 <div class="alert alert-warning">
 Do not attempt to type into a cell when in command mode; unexpected things will happen!
 </div>
+
+## haha
