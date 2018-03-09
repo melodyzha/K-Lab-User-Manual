@@ -26,3 +26,5 @@
     * [编辑模式]()
     * [命令模式]()
     * [Global]()
+
+* [Testing](testing.md)    
