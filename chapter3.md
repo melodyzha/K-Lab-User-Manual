@@ -11,7 +11,7 @@
   * 作用：存储个人持久化工作区文件
   * 访问：```ls /home/kesci/work/```
 
-
+[image01](images/image01.png)
 
 ### 工作区常用命令
 
