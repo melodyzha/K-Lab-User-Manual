@@ -2,6 +2,7 @@
 K-Lab内支持原生Jupyter Notebook的快捷键。
 ## 编辑模式 Edit mode
 当前cell显示为绿色边框，可以输入代码或是文本。
+ ![image description](image/code-cell-green.png)
 * `Ctrl`+`/`：注释代码
 * `Delete`：撤销自动补全
 * `Ctrl`+`Shift`+`-`：分离当前cell
@@ -9,6 +10,7 @@ K-Lab内支持原生Jupyter Notebook的快捷键。
 
 ## 命令模式 Command mode
 当前cell显示灰色边框，并且左边有蓝条标识。
+![image description](image/code-cell.png)
 * `X`：剪切选中cell
 * `Shift`+`J`    
   `Shift`+`ArrowDown`：向下选择cell
