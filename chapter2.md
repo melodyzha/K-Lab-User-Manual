@@ -1,6 +1,7 @@
 # Kernel
 Kernel是Notebook对应的计算环境。Kernel中预先加载了**Python2 & 3** 和 **R** 等主流编程语言对应的**常用数据分析框架**和**工具包**，用户可直接导入数据，通过Notebook编写代码，和Kernel开始数据分析。
 
+**add pictures here**
 ## Kernel类型
 * Python3 Kernel   
 K-Lab 提供 Python 3.5版本的 Python Kernel，并支持大部分的主流数据分析工具包。    
@@ -71,4 +72,6 @@ install.packages(package_name)
 K-Lab为每位用户分配**2核8G**的独享计算资源，为了让计算资源有效分配，用户单次使用时长限制为**2小时**，超过2小时 Kernel 将自动断开，用户可以通过刷新手动连接 Kernel 分配到新的计算资源，继续开展分析工作。
 
 剩余可用时间在右上角显示。
+
+**change the picture here**
 ![image description](image/kernel-time.jpg)
