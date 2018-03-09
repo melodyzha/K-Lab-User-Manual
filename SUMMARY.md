@@ -2,6 +2,7 @@
 
 * [什么是K-Lab](README.md)
 * [Notebook\(编程环境\)](chapter1.md)
+    * [Header](chapter1.md#Header)
     * [Code Cell](chapter1.md#Code-Cell)
     * [Markdown Cell](chapter1.md#Markdown-Cell)
     * [代码收藏区](chapter1.md#代码收藏区)
@@ -23,8 +24,8 @@
     * [管理项目](chapter5.md#管理项目)
 
 * [K-Lab快捷键](chapter8.md)
-    * [编辑模式]()
-    * [命令模式]()
-    * [Global]()
+    * [编辑模式](chapter8.md#编辑模式)
+    * [命令模式](chapter8.md#命令模式)
+    * [Global](chapter8.md#Global)
 
 * [Testing](testing.md)    

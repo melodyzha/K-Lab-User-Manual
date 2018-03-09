@@ -55,7 +55,7 @@ K-Lab支持标准Markdown语法，常用Markdown语法示例展示如下：
 渲染后的Markdown文本展示如下：     
 ![image description](image/markdown-cell-run.png)
   
-更多Makrdown使用示例，请参考https://www.kesci.com/static/markdown_guide.html
+更多K-LabMakrdown使用示例，[请参考链接](https://www.kesci.com/static/markdown_guide.html)。
 
 ## 代码收藏区
 在Notebook页面左侧点击星标按钮，即能看见代码收藏区。分为**公有库**和**我的收藏**。

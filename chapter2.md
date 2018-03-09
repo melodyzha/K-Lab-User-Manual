@@ -7,7 +7,7 @@ K-Lab 提供 Python 3.5版本的 Python Kernel，并支持大部分的主流数�
 ```Python
 import sys
 print (sys.version) # 3.5.2
-````
+```
 * Python2 Kernel   
 K-Lab 提供 Python2.7版本的 Python Kernel，并支持基础的数据分析工具包。    
 ```python
