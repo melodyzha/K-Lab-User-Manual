@@ -3,7 +3,7 @@
 用户在Notebook进行数据分析的过程中，如果生成了新的文件，这些文件将会保存在一个**容量为100M的特定持久化工作区**里面，在下次登录时可继续访问这些文件，而其余文件将被初始化。这个工作区可在Notebook中的Code Cell中输入Linux命令的方式进行访问。
 
 在Notebook页面中可以看见工作区文件目录。
-![image description](input.png)
+![image description](image/input.png)
 
 ### 工作区目录
 * input目录：
@@ -14,7 +14,6 @@
   * 作用：存储个人持久化工作区文件
   * 访问：```ls /home/kesci/work/```
 
-[image01](images/image01.png)
 
 ### 工作区常用命令
 

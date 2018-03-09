@@ -13,6 +13,7 @@
 在k-lab社区中，当用户想对别人创建的项目进行学习研究或者编辑时，可以开启Fork。
 * 什么是Fork：用户点击`Fork`后，可以创建一个内容与被Fork项目Notebook内容相同的新项目。在这个项目里，用户可以自由进行编辑和修改操作。
 * 如何Fork项目：项目页面点击蓝色的`Fork`按钮。
+  ![image description](image/how-to-fork.png)
 * Fork来源：用户选择Fork的项目名称。
 * 项目名称：用户可以更改项目名称。
 * 项目描述：用户可以更改项目描述。
@@ -21,8 +22,11 @@
 ## 运行项目
 * 启动项目：完成项目创建后，在弹出的对话框选择`运行`，便可启动Notebook及Kernel环境，导入数据集，写代码作分析，进行自己的创作。
 * 重命名项目：在Notebook页面点击左上角的项目名称，能够对项目名称进行修改。
+  ![image description](image/name-of-project.png)
 * 保存项目：在Notebook页面点击保存按钮，保存对项目的更改。
+  ![image description](image/save.png)
 * 生成版本：在Notebook页面点击生成版本按钮，该操作将基于当前工作区内容生成一个新的版本。生成版本后，用户才能在`我的项目`中进行项目管理.
+  ![image description](image/new-version.png)
 
 ## 管理项目
 用户可以通过[K-Lab页面`(#)直接访问个人项目，并完成**运行项目**，**修改项目属性**，**删除项目**，**分享项目**等操作。能够看见项目的作者、编程语言、更新时间，内容，Fork记录以及评论。
