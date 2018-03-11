@@ -59,10 +59,10 @@ K-Lab支持标准Markdown语法，常用Markdown语法示例展示如下：
 温馨提示：    
 
 <div class="alert alert-success">
-按下`Enter`键或在cell的编辑区内单击鼠标，进入编辑模式。
+按下Enter键或在cell的编辑区内单击鼠标，进入编辑模式。
 </div>
 <div class="alert alert-success">
-按下`Esc`键或在cell的编辑区外单击鼠标，进入命令模式。
+按下Esc键或在cell的编辑区外单击鼠标，进入命令模式。
 </div>
 <div class="alert alert-warning">
 请勿尝试在code cell运行时对该cell进行编辑。
