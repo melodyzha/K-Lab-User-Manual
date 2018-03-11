@@ -29,13 +29,15 @@ K-Lab Kernel支持用户在与Kernel相连的Notebook中输入指令查看、安
 用户可在Notebook的Code Cell中键入相应指令查看预置的工具包。
 * Python2 Kernel    
 ```
-!pip2 list --format=columns  #查看Kernel下所有预置的工具包
-!pip2 show package_name      #查看Kernel是否有某个工具包
+%%bash
+pip2 list --format=columns  #查看Kernel下所有预置的工具包
+pip2 show package_name      #查看Kernel是否有某个工具包
 ```
 * Python3 Kernel
 ```
-!pip list --format=columns  #查看Kernel下所有预置的工具包
-!pip show package_name      #查看Kernel是否有某个工具包
+%%bash
+pip list --format=columns  #查看Kernel下所有预置的工具包
+pip show package_name      #查看Kernel是否有某个工具包
 ```
 * R Kernel
 
@@ -43,11 +45,13 @@ K-Lab Kernel支持用户在与Kernel相连的Notebook中输入指令查看、安
 用户可在Notebook的Code Cell中键入相应指令安装所需要的工具包，也可以通过`帮助中心`下的`意见反馈`向科赛网提出工具包安装需求，我们将在2个工作日内给出答复。
 * Python2 Kernel
 ```
-!pip2 install package_name==version #如果不注明version则自动安装最新版本
+%%bash
+pip2 install package_name==version #如果不注明version则自动安装最新版本
 ```
 * Python3 Kernel
 ```
-!pip install package_name==version #如果不注明version则自动安装最新版本
+%%bash
+pip install package_name==version #如果不注明version则自动安装最新版本
 ```
 * R Kernel
 ```
@@ -60,11 +64,12 @@ install.packages(package_name)
 用户可在Notebook的Code Cell中键入相应指令升级所需要的工具包，也可以通过`帮助中心`下的`意见反馈`向科赛网提出工具包升级需求，我们将在2个工作日内给出答复。
 * Python2 Kernel
 ```
-!pip2 upgrade package_name==version #如果不注明version则自动安装最新版本
+%%bash
+pip2 install package_name --upgrade
 ```
 * Python3 Kernel
 ```bash
-!pip upgrade package_name==version #如果不注明version则自动安装最新版本
+pip install package_name --upgrade
 ```
 友情提示：手动升级好工具包后，请刷新页面，Notebook所对应的Kernel将完成工具包部署。
 
