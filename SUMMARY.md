@@ -10,7 +10,7 @@
     * [Kernel类型](chapter2.md#Kernel类型)
     * [Kernel内置工具包](chapter2.md#Kernel内置工具包)
     * [Kernel计算资源](chapter2.md#Kenrle计算资源)
-* [个人持久化工作区](chapter3.md)
+* [个人工作区](chapter3.md)
     * [访问工作区](chapter3.md#访问工作区)
     * [工作区常用命令](chapter3.md#工作区常用命令)
 * [数据集](chapter4.md)
