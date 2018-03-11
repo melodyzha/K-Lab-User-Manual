@@ -73,5 +73,5 @@ K-Lab为每位用户分配**2核8G**的独享计算资源，为了让计算资�
 
 剩余可用时间在右上角显示。
 
-**change the picture here**
-![image description](image/kernel-time.jpg)
+
+![image description](image/kernel-time.png)
