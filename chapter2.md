@@ -1,7 +1,7 @@
 # Kernel
 Kernel是Notebook对应的计算环境。Kernel中预先加载了**Python2 & 3** 和 **R** 等主流编程语言对应的**常用数据分析框架**和**工具包**，用户可直接导入数据，通过Notebook编写代码，和Kernel开始数据分析。
 
-**add pictures here**
+![image description](image/kernel.png)
 ## Kernel类型
 * Python3 Kernel   
 K-Lab 提供 Python 3.5版本的 Python Kernel，并支持大部分的主流数据分析工具包。    
