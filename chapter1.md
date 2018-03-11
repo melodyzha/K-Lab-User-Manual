@@ -31,7 +31,7 @@ Markdown Cell也有**编辑模式**和**命令模式**两种状态，编辑模�
 
 更多K-Lab Makrdown使用示例，[请参考链接](https://www.kesci.com/static/markdown_guide.html)。
 
-温馨提示：    
+**温馨提示**：    
 
 <div class="alert alert-success">
 按下Enter键或在cell的编辑区内单击鼠标，进入编辑模式。
@@ -47,6 +47,7 @@ Markdown Cell也有**编辑模式**和**命令模式**两种状态，编辑模�
 在Notebook页面左侧点击星标按钮，即能看见代码收藏区。分为**公有库**和**我的收藏**。
 * 公有库：收集的常用的代码可供用户使用。        
 ![image description](image/code-storage.png)
+
 
 * 我的收藏：用户私人收藏的代码。
 ![image description](image/code_my_favorite.png)
