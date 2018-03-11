@@ -61,7 +61,7 @@ install.packages(package_name)
 友情提示：手动安装好工具包后，请刷新页面，Notebook所对应的Kernel将完成工具包部署。
 
 ### 升级工具包
-用户可在Notebook的Code Cell中键入相应指令升级所需要的工具包，也可以通过`帮助中心`下的`意见反馈`向科赛网提出工具包升级需求，我们将在2个工作日内给出答复。
+用户可在Notebook的Code Cell中键入相应指令升级所需要的工具包，也可以通过[帮助中心/K-Lab工具包页面](https://www.kesci.com/apps/home/workspace/help)下的`包安装反馈`向科赛网提出工具包升级需求，我们将在2个工作日内给出答复。
 * Python2 Kernel
 ```
 %%bash
