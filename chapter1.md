@@ -11,7 +11,7 @@ Code Cell有**编辑模式**和**命令模式**两种状态，状态可以相互
 
 * 编辑模式：表示该cell允许被编辑，界面上显示cell单元框线为绿色，即用户可以在cell中键入代码或注释。
  ![image description](image/code-cell-green.png)
- <img src="image/code-cell-green.png" alt = 'testing,will be deleted later' width="400" height="40">
+
 * 命令模式：表示该cell允许被执行，界面上显示cell的单元框线为蓝色，即用户可以通过点击`运行`按钮或快捷键`Shift + Enter`来运行cell。
   ![image description](image/code-cell.png)
 
