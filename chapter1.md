@@ -27,6 +27,7 @@ Markdown Cell也有**编辑模式**和**命令模式**两种状态，编辑模�
   ![image description](image/markdown-cell-green.png)
 * 命令模式：表示该cell允许被执行，界面上显示cell的单元框线为蓝色，即用户可以通过点击`运行`按钮或快捷键`Shift + Enter`来完成Markdown文本渲染。
  ![image description](image/markdown-cell-blue.png)  
+
 更多K-Lab Makrdown使用示例，[请参考链接](https://www.kesci.com/static/markdown_guide.html)。
 
 温馨提示：    
@@ -47,3 +48,4 @@ Markdown Cell也有**编辑模式**和**命令模式**两种状态，编辑模�
 ![image description](image/code-storage.png)
 
 * 我的收藏：用户私人收藏的代码。
+![image description](image/code_my_favorite.png)
