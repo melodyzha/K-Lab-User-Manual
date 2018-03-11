@@ -42,7 +42,7 @@ pip show package_name      #查看Kernel是否有某个工具包
 * R Kernel
 
 ### 安装工具包
-用户可在Notebook的Code Cell中键入相应指令安装所需要的工具包，也可以通过`帮助中心`下的`意见反馈`向科赛网提出工具包安装需求，我们将在2个工作日内给出答复。
+用户可在Notebook的Code Cell中键入相应指令安装所需要的工具包，也可以通过[帮助中心](https://www.kesci.com/apps/home/workspace/help)下的意见反馈`向科赛网提出工具包安装需求，我们将在2个工作日内给出答复。
 * Python2 Kernel
 ```
 %%bash

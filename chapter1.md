@@ -3,6 +3,7 @@ Notebook是用户登录科赛网并打开K-Lab后，在浏览器端所看到的�
 ## Header
 Notebook页面上端构成了Header，包含了项目名称、菜单栏和工具栏。用户在编辑cell时,即使Notebook页面下滑，Header也会保持在页面的最顶端。项目名称可以被用户修改。工具栏和菜单栏包含了各类不同的操作命令和工具方便用户对Notebook进行编辑。
 ![image description](image/header.png) 
+
 ## Code Cell
 Code Cell是Notebook的代码编写单元。用户在Code Cell内编写代码(目前科赛网支持**Python2 & 3**和**R**等主流编程语言)，代码由后端的Kernel运行，并返回结果到Code Cell。通过这样一个工作流，用户来**解决数据分析中如数据导入、模型搭建、数据可视化、参数调优等问题**。    
 
