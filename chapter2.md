@@ -68,7 +68,8 @@ install.packages(package_name)
 pip2 install package_name --upgrade
 ```
 * Python3 Kernel
-```bash
+```
+%%bash
 pip install package_name --upgrade
 ```
 友情提示：手动升级好工具包后，请刷新页面，Notebook所对应的Kernel将完成工具包部署。
