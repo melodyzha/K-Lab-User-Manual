@@ -40,7 +40,7 @@ K-Lab内支持原生Jupyter Notebook的快捷键。
 * `0`,`0`：重启kernel
 
 
-## 全局 Global 
+## 全局快捷键 
 这些快捷键全局可用。
 
 * `Ctrl`+`S`: 保存文件

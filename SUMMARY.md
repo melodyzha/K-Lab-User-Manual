@@ -26,6 +26,6 @@
 * [K-Lab快捷键](chapter8.md)
     * [编辑模式](chapter8.md#编辑模式)
     * [命令模式](chapter8.md#命令模式)
-    * [Global](chapter8.md#Global)
+    * [全局快捷键](chapter8.md#全局快捷键)
 
-* [Testing](testing.md)    
+* [K-Lab FAQ](https://babybear1992.gitbooks.io/k-lab-faq/content/)
