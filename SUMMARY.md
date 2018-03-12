@@ -29,3 +29,4 @@
     * [全局快捷键](chapter8.md#全局快捷键)
 
 * [K-Lab FAQ](https://babybear1992.gitbooks.io/k-lab-faq/content/)
+* [testing]()
