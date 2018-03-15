@@ -8,12 +8,15 @@ K-lab组织版的数据集分为**个人创建数据集**和**组织授权数据
 * 填写数据集名称：用户对将要上传数据集的命名
 * 设置挂载目录：挂载目录为可以在K-Lab Notebook中访问到数据集的地址，挂载目录的设置支持字母、数字及下划线，**在创建后不可修改**。比如，以上传名为package.xlsx的数据文件为例，计划把它挂载于目录first_dataset下，那么，在挂载目录中填入```first_dataset```即可。
 ![image description](image/创建数据集-访问权限.png)
-* 添加文件：K-Lab支持用户在一个数据集目录下面上传不超过20个文件(如csv,json,txt,xlsx)，**并且这些文件总大小不得超过100M**。
+* 数据集权限：组织管理员创建数据集时可以为数据集设置访问权限。详情参见[数据集权限]
+* 添加文件：K-Lab支持用户在一个数据集目录下面上传**不超过20个文件，并且这些文件总大小不得超过100M**。K-labK-lab支持各种文件格式（如csv，json，txt，xlsx，zip），**但建议上传csv或zip文件。K-lab支持对csv格式和zip格式文件的预览。**
 * 数据集信息：进行数据集封面图片，数据集名称，短描述的编辑。
 ![image description](image/dataset.png)
-* 数据集文档和文件信息:数据集文档是对数据集包含内容的概述。在文件信息页面可以进行csv格式的数据集预览，并对数据集文件做标注。
-![image description](image/dataset-files.png)
-![image description](image/dataset-information.png)
+* 数据集文档和:数据集文档是对数据集包含内容的概述。
+![image description](image/dataset-files.png)
+* 文件信息：在文件信息页面，用户可以预览csv文件的前20行数据，并且修改数据集标注。对于zip格式的文件，用户可以预览压缩包内的文件数量，名称及大小。用户可以对每个文件编写简介。
+![image description](image/dataset-file-info.png)
+![image description](image/dataset-zip-file.png)
 ## 挂载数据集
 在k-lab组织版里，用户创建项目时可以挂载三种不同的数据集：**组织授权数据集**，**个人创建的私有数据**和**社区公开的数据集资源**。详见[数据分析项目](chapter5.md)中有关**[创建项目](chapter5.md#创建项目)**的内容。
 
