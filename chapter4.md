@@ -7,7 +7,7 @@ K-lab组织版的数据集分为**个人创建数据集**和**组织授权数据
 ![image description](image/运行时-创建数据集.png)
 * 填写数据集名称：用户对将要上传数据集的命名
 * 设置挂载目录：挂载目录为可以在K-Lab Notebook中访问到数据集的地址，挂载目录的设置支持字母、数字及下划线，**在创建后不可修改**。比如，以上传名为package.xlsx的数据文件为例，计划把它挂载于目录first_dataset下，那么，在挂载目录中填入```first_dataset```即可。
-![image description](image/first-dataset.png)
+![image description](image/创建数据集-访问权限.png)
 * 添加文件：K-Lab支持用户在一个数据集目录下面上传不超过20个文件(如csv,json,txt,xlsx)，**并且这些文件总大小不得超过100M**。
 * 数据集信息：进行数据集封面图片，数据集名称，短描述的编辑。
 ![image description](image/dataset.png)
