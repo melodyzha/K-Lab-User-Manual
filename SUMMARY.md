@@ -27,6 +27,3 @@
     * [编辑模式](chapter8.md#编辑模式)
     * [命令模式](chapter8.md#命令模式)
     * [全局快捷键](chapter8.md#全局快捷键)
-
-* [K-Lab FAQ](https://babybear1992.gitbooks.io/k-lab-faq/content/)
-* [testing]()
