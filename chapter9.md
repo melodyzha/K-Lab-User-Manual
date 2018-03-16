@@ -16,13 +16,13 @@
 在项目管理页面，管理员可查看到组织内**所有**的数据分析项目，并且可以通过**标题**，**标签**，**作者**和**时间**对项目进行批量筛选。项目筛选出的结果可以导出生成csv文件。
  ![image description](image/manage-project.png)
 * 标题搜索：输入标题关键字搜索数据分析项目。
-![image description](image/项目管理-标题搜索.png)
+![image description](image/manage-project-search-title.png)
 * 标签筛选：通过选择标签筛选出含有该标签的数据分析项目。
-![image description](image/项目管理-标签.png)
+![image description](image/manage-project-tag.png)
 * 作者筛选：通过选择创建项目的用户或群组进行项目筛选。
-![image description](image/项目管理-选择成员.png)
+![image description](image/manage-project-select-user.png)
 * 时间筛选：选定一个时间段，筛选出在该时间段内项目发布的最新版本。
-![image description](image/选择时间段.png)
+![image description](image/manage-project-select-time.png)
 
 ## 标签管理
 标签是用来给内容进行分类的一种方法，K-lab组织版给用户提供了一个有层级的标签体系，一般由管理员创建标签。管理员可以自定义标签的层级和每一层级的标签数量。在K-lab组织版里，管理员可以根据自己组织不同的需求自由创建标签体系，并在`标签管理`页对标签进行增、删、改。
