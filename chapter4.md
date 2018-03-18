@@ -15,7 +15,7 @@ K-lab组织版的数据集分为**个人创建数据集**和**组织授权数据
 ![image description](image/dataset-information.png)
 * 文件信息：在文件信息页面，用户可以预览csv文件的前20行数据，并且**修改数据集标注**。对于zip格式的文件，用户可以预览压缩包内的文件数量，名称及大小。用户可以对每个文件编写简介。
 ![image description](image/dataset-file-info.png)
-![image description](image/dataset-zip-info.png)
+![image description](image/dataset-zip-file.png)
 
 ## 挂载数据集
 在k-lab组织版里，用户创建项目时可以挂载三种不同的数据集：**组织授权数据集**，**个人创建的私有数据**和**社区公开的数据集资源**。详见[数据分析项目](chapter5.md)中有关[创建项目](chapter5.md#创建项目)的内容。挂载的数据集可以在`修改项目`中进行修改。运行项目时，项目挂载的数据集可以在**input目录**下找到。
