@@ -4,7 +4,7 @@ K-lab组织版的数据集分为**个人创建数据集**和**组织授权数据
 
 ## 创建数据集
 在`K-Lab页面`下的`我的数据集`中点击蓝色`+`或直接点击`创建数据集`来进行数据集的创建。
-![image description](image/dataset-setup.png)
+![image description](image/page-project.png)
 * 填写数据集名称：用户对将要上传数据集的命名
 * 设置挂载目录：挂载目录为可以在K-Lab Notebook中访问到数据集的地址，挂载目录的设置支持字母、数字及下划线，**在创建后不可修改**。比如，以上传名为package.xlsx的数据文件为例，计划把它挂载于目录first_dataset下，那么，在挂载目录中填入```first_dataset```即可。
 ![image description](image/first-dataset.png)
@@ -12,7 +12,7 @@ K-lab组织版的数据集分为**个人创建数据集**和**组织授权数据
 * 数据集信息：进行数据集封面图片，数据集名称，短描述的编辑。
 ![image description](image/dataset.png)
 * 数据集文档和文件信息:数据集文档是对数据集包含内容的概述。在文件信息页面可以进行csv格式的数据集预览，并对数据集文件做标注。
-![image description](image/dataset-files.png)
+![image description](image/dataset-files.png)
 ![image description](image/dataset-information.png)
 ## 挂载数据集
 在k-lab组织版里，用户创建项目时可以挂载三种不同的数据集：**组织授权数据集**，**个人创建的私有数据**和**社区公开的数据集资源**。详见[数据分析项目](chapter5.md)中有关**[创建项目](chapter5.md#创建项目)**的内容。
